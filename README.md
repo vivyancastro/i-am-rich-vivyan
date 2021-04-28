@@ -6,4 +6,4 @@ My version of I am Rich app. A good exercise to how to build an Flutter app. It 
 ## The App
 It's one screen app with a diamond image.
 
-![app](app.png)
+![app](images/app.png)
